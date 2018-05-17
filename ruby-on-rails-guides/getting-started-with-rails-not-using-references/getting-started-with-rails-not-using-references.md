@@ -19,7 +19,7 @@ Hence a **Comment** has **one and only one Article**.
 ### Steps
 
 1. [RVM gemset container](https://github.com/mikaelblomkvist50/getting_started_not_using_references_RoR/blob/master/steps/1-rvm-gemset-container.md)
-2. [3.2 Creating the Blog Application ~ 4.3 Setting the Application Home Page](https://github.com/mikaelblomkvist50/getting_started_not_using_references_RoR/tree/master/steps)
+2. [3.2 Creating the Blog Application ~ 4.3 Setting the Application Home Page](https://github.com/mikaelblomkvist50/getting_started_not_using_references_RoR/blob/master/steps/2-getting-started-with-rails-3.2-4.3.md)
 3. [5 Getting Up and Running ~ 5.13 Deleting Articles](https://github.com/mikaelblomkvist50/getting_started_not_using_references_RoR/blob/master/steps/3-getting-started-with-rails-5-5.13.md)
 4. [6 Adding a Second Model ~  8.1 Deleting Associated Objects (not using references unlike original way in the guides)](https://github.com/mikaelblomkvist50/getting_started_not_using_references_RoR/blob/master/steps/4-getting-started-with-rails-6-8.1-not-using-references.md)
 5. [Articles Comments Seeds Hirb (not using references)](https://github.com/mikaelblomkvist50/getting_started_not_using_references_RoR/blob/master/steps/5-articles-comments-seeds-hirb.md)

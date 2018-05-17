@@ -19,11 +19,10 @@ Hence a **Comment** has **one and only one Article**.
 ### Steps
 
 1. [RVM gemset container](https://gist.github.com/JuliusRobertOppenheimer/c098915268af721d8e12bda9448d4e3d)
-2. [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
-3. [3.2 Creating the Blog Application ~ 4.3 Setting the Application Home Page](https://gist.github.com/JuliusRobertOppenheimer/b65bf0edd298ad6a7b0ab8bdda5ea34d)
-4. [5 Getting Up and Running ~ 5.13 Deleting Articles](https://gist.github.com/JuliusRobertOppenheimer/847f19c79c1b87907fb3898751d715c8)
-5. [6 Adding a Second Model ~  8.1 Deleting Associated Objects (using references the original way in the guides) ](https://gist.github.com/JuliusRobertOppenheimer/9c96b8b7d4871fca6f55a3e1d3abb232)
-6. [Articles Comments Seeds Hirb (using references) ](https://gist.github.com/JuliusRobertOppenheimer/94e544d1d2fc6fd52b0f91e4b2bd982f)
+2. [3.2 Creating the Blog Application ~ 4.3 Setting the Application Home Page](https://gist.github.com/JuliusRobertOppenheimer/b65bf0edd298ad6a7b0ab8bdda5ea34d)
+3. [5 Getting Up and Running ~ 5.13 Deleting Articles](https://gist.github.com/JuliusRobertOppenheimer/847f19c79c1b87907fb3898751d715c8)
+4. [6 Adding a Second Model ~  8.1 Deleting Associated Objects (using references the original way in the guides) ](https://gist.github.com/JuliusRobertOppenheimer/9c96b8b7d4871fca6f55a3e1d3abb232)
+5. [Articles Comments Seeds Hirb (using references) ](https://gist.github.com/JuliusRobertOppenheimer/94e544d1d2fc6fd52b0f91e4b2bd982f)
 
 ### Differences between using references and not using references
 
