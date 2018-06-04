@@ -49,7 +49,11 @@
 
 # G
 
+* https://gorails.com/
+
 # H
+
+* https://www.happybearsoftware.com/
 
 # I
 
@@ -63,6 +67,9 @@
 
 # L
 
+* https://learnetto.com/
+* https://www.lugolabs.com/
+
 # M
 
 * http://motion-express.com/blog
@@ -73,11 +80,18 @@
 
 # P
 
+* https://www.planetargon.com/
+
 # Q
 
 # R
 
+* http://railsapps.github.io/
+* https://ragnarson.com/
 * http://www.rakeroutes.com/
+* https://railsware.com/
+* https://richonrails.com/
+* https://robots.thoughtbot.com/
 
 # S
 
@@ -86,6 +100,8 @@
 
 # T
 
+* https://www.theodinproject.com/home
+* https://thinkster.io/
 * http://tomkadwill.com/
 
 # U
