@@ -28,8 +28,10 @@
 [Z](#z) **|**
 
 # A
+* https://www.airpair.com
 
 # B
+
 
 * https://www.bigbinary.com/
 
@@ -54,6 +56,7 @@
 # H
 
 * https://www.happybearsoftware.com/
+* https://hackhands.com/
 
 # I
 
